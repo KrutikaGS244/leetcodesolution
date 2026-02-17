@@ -18,6 +18,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/KrutikaGS244/leetcodesolution/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/KrutikaGS244/leetcodesolution/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -27,4 +28,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/KrutikaGS244/leetcodesolution/tree/master/0387-first-unique-character-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/KrutikaGS244/leetcodesolution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
