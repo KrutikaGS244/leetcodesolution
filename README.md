@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/KrutikaGS244/leetcodesolution/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/KrutikaGS244/leetcodesolution/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KrutikaGS244/leetcodesolution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/KrutikaGS244/leetcodesolution/tree/master/0136-single-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KrutikaGS244/leetcodesolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
@@ -52,4 +53,8 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/KrutikaGS244/leetcodesolution/tree/master/0066-plus-one) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KrutikaGS244/leetcodesolution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
