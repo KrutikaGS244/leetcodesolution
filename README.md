@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/KrutikaGS244/leetcodesolution/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/KrutikaGS244/leetcodesolution/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/KrutikaGS244/leetcodesolution/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KrutikaGS244/leetcodesolution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/KrutikaGS244/leetcodesolution/tree/master/0136-single-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KrutikaGS244/leetcodesolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -48,6 +49,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/KrutikaGS244/leetcodesolution/tree/master/0088-merge-sorted-array) |
 | [0844-backspace-string-compare](https://github.com/KrutikaGS244/leetcodesolution/tree/master/0844-backspace-string-compare) |
 ## Math
 |  |
@@ -57,4 +59,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KrutikaGS244/leetcodesolution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/KrutikaGS244/leetcodesolution/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
