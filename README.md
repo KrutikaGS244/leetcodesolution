@@ -9,6 +9,7 @@
 | [0088-merge-sorted-array](https://github.com/KrutikaGS244/leetcodesolution/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KrutikaGS244/leetcodesolution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/KrutikaGS244/leetcodesolution/tree/master/0136-single-number) |
+| [0238-product-of-array-except-self](https://github.com/KrutikaGS244/leetcodesolution/tree/master/0238-product-of-array-except-self) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KrutikaGS244/leetcodesolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
 |  |
@@ -63,4 +64,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/KrutikaGS244/leetcodesolution/tree/master/0088-merge-sorted-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/KrutikaGS244/leetcodesolution/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
